@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhonatan Escobar Uribe</h1>
-<h3 align="center">A trainee with a great future's developer from Colombia</h3>
+<h3 align="center">A trainee developer from Colombia</h3>
 
 - 👨‍💻 I’m currently studing in [Digital House](https://www.digitalhouse.com/)
 
