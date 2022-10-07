@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Sass, Javascript, React, Java**
 
-- 👯 I’m working recently in a [Gif APP](https://jhont3.github.io/react-gifs-finder/)
+- 👯 I’m working recently in a [Gif APP](https://jhont3.github.io/react-gifs-finder/) [Repository Gif's Finder](https://github.com/Jhont3/react-gifs-finder/blob/main/README.md)
 
 - 📫 How to reach me **https://www.linkedin.com/in/jhonatan-escobar-uribe-13a656247/**
 
