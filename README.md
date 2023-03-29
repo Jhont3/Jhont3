@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Jhonatan Escobar Uribe</h1>
-<h3 align="center">**A Junior Software Developer from Colombia**</h3>
+<h3 align="center">**A Software Developer from Colombia**</h3>
 <br/>
 
 - 👨‍💻 I already finished the first track of the [Digital House](https://www.digitalhouse.com/) Certified Tech Developer course. 
