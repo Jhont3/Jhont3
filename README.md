@@ -2,9 +2,9 @@
 <h3 align="center">**A Software Developer from Colombia**</h3>
 <br/>
 
-- 👨‍💻 I already finished the first track of the [Digital House](https://www.digitalhouse.com/) Certified Tech Developer course. 
+- 👨‍💻 I studied in [Digital House](https://www.digitalhouse.com/) the Certified Tech Developer course. 
 
-- 🌱 I’m currently learning and practicing about **React-Js, Tailwind, Typescript, NodeJs, MySQL, Java and Spring Boot**
+- 🌱 I’m currently learning and practicing about **FullStack Development and C# in Unity**
 
 - 👯 I’m working recently in [EasyCar Booking](https://github.com/Jhont3/easycar-booking-react). I hope you like it. 👍
 
@@ -12,7 +12,7 @@
 
 - 🚀 I’m hoping upload more great things soon...   
 
-- 🔥 I’m looking become a great Full Stack Developer and I´m passionate about Front-End
+- 🔥 I´m passionate about Front-End and videogames
 
 ## Tech pool:
 
@@ -21,4 +21,3 @@
 ## Github stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhont3&show_icons=true&locale=en&layout=compact" alt="jhont3" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhont3&show_icons=true&locale=en" alt="jhont3" /></p>
