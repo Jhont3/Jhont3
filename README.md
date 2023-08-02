@@ -4,9 +4,9 @@
 
 - 👨‍💻 I studied the Certified Tech Developer course at [Digital House](https://www.digitalhouse.com/). 
 
-- 🌱 I’m currently learning and practicing about **FullStack Development and C# / Dotnet Backend**
+- 🌱 I’m currently learning and practicing about **FullStack Development and C# / Dotnet Backend**.
 
-- 👯 I recently worked in [My portfolio]([https://www.linkedin.com/in/jhonatan-escobar-uribe/](https://my-portfolio-nextjs-three.vercel.app/)). I hope you like it. 👍
+- 👯 I recently worked in [My portfolio](https://my-portfolio-nextjs-three.vercel.app/). I hope you like it. 👍
 
 - 📫 How to reach me and learn more about me [LinkedIn](https://www.linkedin.com/in/jhonatan-escobar-uribe/). 
 
