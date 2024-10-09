@@ -8,12 +8,21 @@
 
 - 👯 I recently worked in [Digital Money House](https://digital-money-house-wallet.vercel.app/). I hope you like it. 👍
 
-- 📫 How to reach me and learn more about me [LinkedIn](https://www.linkedin.com/in/jhonatan-escobar-uribe/). 
-
 - 🚀 Take a moment to watch my [Digital Money House](https://my-portfolio-nextjs-three.vercel.app/portfolio) if you want =).
 
 - 🔥 I´m passionate about Frontend, Backend and videogames.
+  
+- 📫 How to reach me and learn more about me
 
+###
+
+   <a href="https://discord.com/"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
+   <img width="12">
+   [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />](https://www.linkedin.com/in/jhonatan-escobar-uribe/)
+   <img width="12">
+   <a href="mailto:tu-correo@example.com?subject=Hola%20Jhonatan&body=Hola!%20Estaba%20mirando%20tu%20perfil%20de%20GitHub%20y%20me%20gustaría...">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 
 ## Languages and tools that I have used:
 
