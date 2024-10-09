@@ -2,18 +2,20 @@
 <h3 align="center">**A Software Developer from Colombia**</h3>
 <br/>
 
-- 👨‍💻 I am a Programmer Developer and Frontend Specialist of [Digital House](https://www.digitalhouse.com/). 
+<div align="center>
+  
+- 👨‍💻 I am a Programmer Developer and Frontend Specialist of Digital House. 
 
 - 🌱 I’m currently learning and practicing about **FullStack Development and Backend**.
 
-- 👯 I recently worked in [Digital Money House](https://digital-money-house-wallet.vercel.app/). I hope you like it. 👍
+- 👯 I recently worked in [Digital Money House](https://digital-money-house-wallet.vercel.app/). 
 
-- 🚀 Take a moment to watch my [Digital Money House](https://my-portfolio-nextjs-three.vercel.app/portfolio) if you want =).
+- 🚀 Take a moment to watch my [Portfolio](https://my-portfolio-nextjs-three.vercel.app/portfolio) I hope you like it. 👍
 
 - 🔥 I´m passionate about Frontend, Backend and videogames.
   
 - 📫 How to reach me and learn more about me
-
+ 
 ###
 
    <a href="https://discord.gg/2wQd7hTz"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
@@ -23,6 +25,10 @@
    <a href="mailto:tu-correo@example.com?subject=Hola%20Jhonatan&body=Hola!%20Estaba%20mirando%20tu%20perfil%20de%20GitHub%20y%20me%20gustaría...">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  
+</div>
+
+
 
 ## Languages and tools that I have used:
 
