@@ -1,18 +1,18 @@
-<h1 align="center">Hi there, I'm Jhonatan Escobar Uribe</h1>
+<h1 align="center">Hi, I'm Jhonatan Escobar Uribe</h1>
 <h3 align="center">**A Software Developer from Colombia**</h3>
 <br/>
 
-- 👨‍💻 I studied the Certified Tech Developer course at [Digital House](https://www.digitalhouse.com/). 
+- 👨‍💻 I am a Programmer Developer and Frontend Specialist of [Digital House](https://www.digitalhouse.com/). 
 
-- 🌱 I’m currently learning and practicing about **FullStack Development and C# / Dotnet Backend**.
+- 🌱 I’m currently learning and practicing about **FullStack Development and Backend**.
 
-- 👯 I recently worked in [My portfolio](https://my-portfolio-nextjs-three.vercel.app/). I hope you like it. 👍
+- 👯 I recently worked in [Digital Money House](https://digital-money-house-wallet.vercel.app/). I hope you like it. 👍
 
 - 📫 How to reach me and learn more about me [LinkedIn](https://www.linkedin.com/in/jhonatan-escobar-uribe/). 
 
-- 🚀 I hope to upload more great stuff soon...   
+- 🚀 Take a moment to watch my [Digital Money House](https://my-portfolio-nextjs-three.vercel.app/portfolio) if you want =).
 
-- 🔥 I´m passionate about Frontend, Backend and videogames
+- 🔥 I´m passionate about Frontend, Backend and videogames.
 
 
 ## Languages and tools that I have used:
