@@ -1,20 +1,18 @@
 <h1 align="center">Hi, I'm Jhonatan Escobar Uribe</h1>
 <h3 align="center">**A Software Developer from Colombia**</h3>
 <br/>
-
-<div align="center>
   
-- 👨‍💻 I am a Programmer Developer and Frontend Specialist of Digital House. 
+- 👨‍💻 I am a Frontend Specialist and Programmer Developer at Digital House. 
 
-- 🌱 I’m currently learning and practicing about **FullStack Development and Backend**.
+- 🌱 I’m currently learning and practicing FullStack Development.
 
-- 👯 I recently worked in [Digital Money House](https://digital-money-house-wallet.vercel.app/). 
+- 👯 I recently worked in [Digital Money House](https://digital-money-house-wallet.vercel.app/) a digital wallet application. 
 
-- 🚀 Take a moment to watch my [Portfolio](https://my-portfolio-nextjs-three.vercel.app/portfolio) I hope you like it. 👍
+- 🚀 Take a moment to check out my [Portfolio](https://my-portfolio-nextjs-three.vercel.app/portfolio). I hope you like it 👍
 
-- 🔥 I´m passionate about Frontend, Backend and videogames.
+- 🔥 I’m passionate about Frontend, Backend, and video games like RDR2.
   
-- 📫 How to reach me and learn more about me
+- 📫 Here’s how to reach me and learn more about me:
  
 ###
 
@@ -25,10 +23,6 @@
    <a href="mailto:tu-correo@example.com?subject=Hola%20Jhonatan&body=Hola!%20Estaba%20mirando%20tu%20perfil%20de%20GitHub%20y%20me%20gustaría...">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  
-</div>
-
-
 
 ## Languages and tools that I have used:
 
@@ -36,12 +30,12 @@
   
 ## Github stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhont3&show_icons=true&locale=en&layout=compact" alt="jhont3" /></p>
+<p>&nbsp;
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhont3&show_icons=true&locale=en&layout=compact" alt="jhont3" />
+  <img align="left" alt="Coding" width="290" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+</p>
 
-###
-
-<br clear="both">
 
 ![Snake animation](https://github.com/Jhont3/Jhont3/raw/output/snake.svg)
 
-###
+
